@@ -1,0 +1,70 @@
+.hero{
+    width: 100%;
+    height: 40vw;
+    background-color: rgb(0, 0, 0,0.7);
+    margin-top: 60px;
+    position: relative;
+    overflow: hidden;
+}
+.hero-cover{
+    width: 100%;
+    margin-top: 8%;
+}
+.hero-cover h1{
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.hero-cover ul{
+    max-width: 700px;
+}
+.hero-cover p{
+    font-size: 35px;
+}
+.list-inline-item{
+    font-size: 18px;
+}
+.list-inline-item::before {
+    content: "\00b7"; /* Punto */
+    font-size: 30px;
+    font-weight: bold;
+    color: #ff6600;
+    margin-right: 0.5rem; /* Espacio entre el punto y el texto */
+  }
+
+.hero-cover a{
+    width: 300px;
+    text-align: center!important;
+    justify-content: center;
+    align-items: center;
+    background-color: #ff6600;
+    border-color:#ff6600;
+    font-size: 20px;
+}
+.hero-cover a:hover{
+    background-color: #e75f04;
+    border-color: #e75f04;
+}
+
+@media (max-width:720px) {
+    .hero{
+        height: 100vw;
+    }
+}
+
+@media (max-width:650px){
+    .hero-cover h1{
+        font-size: 35px;
+    }
+    .hero-cover p{
+        font-size: 18px;
+    }
+    .hero-cover ul{
+        display: block!important;
+        justify-content: center;
+        padding-left: 2px;
+    }
+    .list-inline-item{
+        font-size: 12px;
+    }
+}

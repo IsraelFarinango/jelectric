@@ -1,0 +1,14 @@
+.about-section{
+    display: block;
+    background: #fff;
+}
+.about-section .card{
+    max-width: 1000px!important;
+}
+
+
+@media (max-width:650px){
+    .about-section{
+        padding: 0px 0px 10px 0px!important;
+    }
+}

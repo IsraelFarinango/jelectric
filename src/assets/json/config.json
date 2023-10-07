@@ -1,0 +1,19 @@
+{
+    "service":{
+        "install":{
+            "name":"Instalacion",
+            "url":"./installation.png",
+            "description":"Se realiza todo tipo de instalaciones electricas a 110 Voltios, tomas especiales, tableros de distribucion, etc."
+        },
+        "maintenance":{
+            "name": "Mantenimiento",
+            "url":"./setting.png",
+            "description":"Mantenimiento preventivo y correctivo de instalaciones electricas, deteccion y correcion de fugas electricas." 
+        },
+        "consulting":{
+            "name":"Asesoria",
+            "url":"./consulting.png",
+            "description":"Asesoramiento en instalaciones electricas, proyectos academicos, diseño de iluminacion"
+        }
+    }
+}
