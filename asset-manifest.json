@@ -1,20 +1,19 @@
 {
   "files": {
     "main.css": "/jelectric/static/css/main.aec65ba4.css",
-    "main.js": "/jelectric/static/js/main.3ff7282f.js",
+    "main.js": "/jelectric/static/js/main.20d000c9.js",
     "static/js/787.8ebcf3d1.chunk.js": "/jelectric/static/js/787.8ebcf3d1.chunk.js",
-    "static/media/cover.webp": "/jelectric/static/media/cover.a03d151fc2ef4536e5ab.webp",
-    "static/media/profile.png": "/jelectric/static/media/profile.aeec4a4bbfe091045129.png",
     "static/media/cover1.jpg": "/jelectric/static/media/cover1.80fc2ed16fa7e29ddfda.jpg",
     "static/media/setting.png": "/jelectric/static/media/setting.4ac061064ab8bade4915.png",
+    "static/media/profile.jpeg": "/jelectric/static/media/profile.0d968323fe59d6658525.jpeg",
     "static/media/install.png": "/jelectric/static/media/install.ec89a3a072eee83752ff.png",
     "index.html": "/jelectric/index.html",
     "main.aec65ba4.css.map": "/jelectric/static/css/main.aec65ba4.css.map",
-    "main.3ff7282f.js.map": "/jelectric/static/js/main.3ff7282f.js.map",
+    "main.20d000c9.js.map": "/jelectric/static/js/main.20d000c9.js.map",
     "787.8ebcf3d1.chunk.js.map": "/jelectric/static/js/787.8ebcf3d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aec65ba4.css",
-    "static/js/main.3ff7282f.js"
+    "static/js/main.20d000c9.js"
   ]
 }
