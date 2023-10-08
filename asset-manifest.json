@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jelectric/static/css/main.bcc1923d.css",
-    "main.js": "/jelectric/static/js/main.1625819f.js",
+    "main.js": "/jelectric/static/js/main.b29657e5.js",
     "static/js/787.8ebcf3d1.chunk.js": "/jelectric/static/js/787.8ebcf3d1.chunk.js",
     "static/media/cover1.jpg": "/jelectric/static/media/cover1.80fc2ed16fa7e29ddfda.jpg",
     "static/media/setting.png": "/jelectric/static/media/setting.4ac061064ab8bade4915.png",
@@ -9,11 +9,11 @@
     "static/media/install.png": "/jelectric/static/media/install.ec89a3a072eee83752ff.png",
     "index.html": "/jelectric/index.html",
     "main.bcc1923d.css.map": "/jelectric/static/css/main.bcc1923d.css.map",
-    "main.1625819f.js.map": "/jelectric/static/js/main.1625819f.js.map",
+    "main.b29657e5.js.map": "/jelectric/static/js/main.b29657e5.js.map",
     "787.8ebcf3d1.chunk.js.map": "/jelectric/static/js/787.8ebcf3d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcc1923d.css",
-    "static/js/main.1625819f.js"
+    "static/js/main.b29657e5.js"
   ]
 }
