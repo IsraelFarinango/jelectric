@@ -5,7 +5,7 @@
     font-family: Arial, Helvetica, sans-serif;
     border-radius: 3px;
 }
-.phone-number a{
+.phone-number label{
     text-decoration: none;
     color: #fff;
     width: 100%;

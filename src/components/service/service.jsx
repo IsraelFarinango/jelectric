@@ -11,12 +11,17 @@ export default function Service() {
                 <div className="row">
                     {Object.values(ConfigJSON.service).map((value, index)=>{
                         return(
-                            <Card params={value}/>
+                            <Card params={value}
+                                  key={index}/>
                         )
                     })}
                 </div>
             </div>
-            <a href="#" className="btn d-flex mx-auto">Cotizar</a>
+            <a href="https://api.whatsapp.com/send?phone=593990187208"
+             className="btn d-flex mx-auto"
+             target={"_blank"}
+             rel={"noopener noreferrer "}
+             >Cotizar</a>
         </section>
     )
 }

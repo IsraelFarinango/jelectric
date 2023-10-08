@@ -11,4 +11,9 @@
     .about-section{
         padding: 0px 0px 10px 0px!important;
     }
+    .picture-aligne{
+        margin: auto!important;
+        display: flex;
+        justify-content: center!important;
+    }
 }

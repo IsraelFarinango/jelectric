@@ -4,6 +4,7 @@ import About from "../components/about/about"
 import Service from "../components/service/service"
 import Contact from "../components/contact/contact"
 import Footer from "../components/footer/footer"
+import Wsp from "../components/watsapp/whatsapp"
 export default function Index(){
     return(
         <div className="index">
@@ -15,6 +16,7 @@ export default function Index(){
                 <Contact/>
                 <Footer/>
             </main>
+            <Wsp/>
         </div>
     )
 }
